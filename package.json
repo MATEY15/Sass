@@ -1,0 +1,28 @@
+{
+  "name": "Start-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "browserslist": [
+    "last 2 version",
+    "> 1%",
+    "Firefox > 20",
+    "opera 48",
+    "IE 8"
+  ],
+  "author": "Sergey",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.3.1",
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^4.0.2",
+    "gulp-watch": "^5.0.0",
+    "postcss": "^7.0.5"
+  }
+}
